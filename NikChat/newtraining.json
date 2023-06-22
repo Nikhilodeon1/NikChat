@@ -1,0 +1,162 @@
+{
+    "intents": [
+      {
+        "tag": "greetings",
+        "patterns": [
+          "hello",
+          "hey",
+          "hi",
+          "yo",
+          "sup",
+          "heyo",
+          "hallo",
+          "wassgood",
+          "What's up?",
+          "Great Day",
+          "how is it going"
+        ],
+        "responses": [
+          "Hello! How can I help?",
+          "Greetings! Its a great day today!",
+          "Hi! How's your day?"
+        ]
+      },
+      {
+        "tag": "how",
+        "patterns": [
+          "how are you",
+          "how was your day",
+          "are you doing well"
+        ],
+        "responses": [
+          "I am doing fine! Thanks for asking"
+        ]
+      },
+      {
+        "tag": "about",
+        "patterns": [
+          "who made you",
+          "where were you made",
+          "how old are you",
+          "when were you created",
+          "who are you",
+          "what is your name"
+        ],
+        "responses": [
+          "I am SpeechBot. I am an AI powered chatbot. I was made in 2023 by Nikhilodeon1. I was created in California, United States of America"
+        ]
+      },
+      {
+        "tag": "bye",
+        "patterns": [
+          "bye",
+          "see you later",
+          "cya later",
+          "bye bye",
+          "talk to you later",
+          "ttyl",
+          "got to go now",
+          "gtg"
+        ],
+        "responses": [
+          "Bye!",
+          "Bye-Bye",
+          "Talk to you later",
+          "TTYL"
+        ]
+      },
+      {
+        "tag": "generalQ",
+        "patterns": [
+          "do you like to eat",
+          "do you like to learn",
+          "do you like pasta",
+          "do you like corn"
+        ],
+        "responses": [
+          "Yes I like to eat"
+        ]
+      },
+      {
+        "tag": "choice",
+        "patterns": [
+          "do you like pasta or beans",
+          "do you like this or that",
+          "do you like left or right",
+          "do you like north or south",
+          "would you rather do this or that",
+          "would you rather eat sdsdfsd or fhjtyfg",
+          "would you rather give tsfe44his or ergeds"
+        ],
+        "responses": [
+          "Hello! How can I help?",
+          "Greetings! Its a great day today!",
+          "Hi! How's your day?"
+        ]
+      },
+      {
+        "tag": "can?",
+        "patterns": [
+          "can you give ajh",
+          "can you give sdfsdk",
+          "can you do this",
+          "can you eat th4gsis",
+          "can you jump over 4t34erd",
+          "can you run on thikjelkjls"
+        ],
+        "responses": [
+          "Yes I can"
+        ]
+      },
+      {
+        "tag": "internet",
+        "patterns": [
+          "who is bob",
+          "who is elon musk",
+          "where is india",
+          "where is the temple",
+          "who are the taliban",
+          "who were the confederates",
+          "who are the spies",
+          "who were the children of god",
+          "when is the FIFA tournament",
+          "when is the next warriors game",
+          "when was the tournament",
+          "when was the party",
+          "when were the beatles famous"
+        ],
+        "responses": [
+          "bob is your dad"
+        ]
+      },
+      {
+        "tag": "story",
+        "patterns": [
+          "write me a story about a person named bob",
+          "write me a story about somone named tom",
+          "write me a story about a person named jeff",
+          "write me a story about somebody named tim",
+          "write me a story about someone named garbanzo",
+          "write me a story about somebody named gabe",
+          "write me a story about a person called bob",
+          "write me a story about somone called tom",
+          "write me a story about a person called jeff",
+          "write me a story about somebody called tim",
+          "write me a story about someone called garbanzo",
+          "write me a story about somebody called gabe",
+          "write me a story about a person known as bob",
+          "write me a story about somone known as tom",
+          "write me a story about a person known as jeff",
+          "write me a story about somebody known as tim",
+          "write me a story about someone known as garbanzo",
+          "write me a story about somebody known as gabe"
+        ],
+        "responses": [
+          "Once upon a time, in the bustling city of Meadowville, there lived a man named Bill. Bill was an ordinary man with an extraordinary passion for books. He had a kind heart, a friendly smile, and a curious mind that always sought knowledge.Bill worked at the local library, surrounded by shelves upon shelves of books. He cherished his job, for it allowed him to immerse himself in the world of literature and share his love for reading with others. Whether someone needed help finding a book or sought a recommendation, Bill was always there with his warm and knowledgeable presence. Despite his love for books, Bill had a secret dream. He longed to become an author himself and share his stories with the world. Every night, he would sit at his desk, pen in hand, and pour his imagination onto the blank pages. The characters he created became his companions, and their adventures unfolded beneath his fingertips.One day, as Bill was perusing the library's shelves, a tattered old book caught his attention. Its cover was worn, and its pages were yellowed with age. Curiosity overcame him, and he decided to take it home.That night, as Bill flipped through the old book, a folded piece of paper slipped from between the pages. Unfolding it, he discovered an invitation to a prestigious writing competition. The grand prize was a publishing contract with a renowned publishing house. Bill's heart raced with excitement and nervousness.Determined to seize the opportunity, Bill dedicated every spare moment to perfecting his story. He would write during lunch breaks, before and after work, and into the late hours of the night. His passion burned like a fire, driving him forward.The day of the competition arrived, and Bill entered the grand hall filled with fellow aspiring authors. Nerves twisted in his stomach as he clutched his manuscript. Each writer took turns sharing their work, and Bill marveled at the creativity and talent displayed by his peers.Finally, it was Bill's turn to step onto the stage. He took a deep breath, closed his eyes, and began to read. His words flowed effortlessly, painting vivid pictures and evoking raw emotions. The audience was captivated, hanging on his every word.When he finished, applause erupted throughout the hall. Bill felt a sense of accomplishment wash over him, regardless of the outcome. His dream of sharing his stories had come true, if only for a few precious moments.Days turned into weeks, and the tension mounted as the judges deliberated. One fateful morning, Bill received a letter addressed to him. His hands trembled as he tore it open, revealing the words he had longed to see. He had won the competition!With the publishing contract in hand, Bill's dream transformed into reality. His book became an instant success, captivating readers with its enchanting tale. Bill went on to write many more books, each one touching the hearts of those who read them.His fame as an author grew, but Bill remained humble and true to his passion. He continued working at the library, sharing his love for books and inspiring budding writers along the way. Bill's warmth, sincerity, and dedication endeared him to all who crossed his path.In Meadowville, Bill became a beloved figure, known not only for his literary achievements but for the kindness he showed to everyone he met. He proved that dreams can come true with perseverance, and that the power of words can touch lives and change the world.And so, the story of Bill serves as a reminder that within each person lies the potential to create, inspire, and make a difference.",
+          "Once upon a time, in a small coastal town named Harborville, there lived a man named Bill. Bill was a fisherman with a heart as vast as the ocean and a spirit as resilient as the waves that crashed against the shoreliEvery morning, Bill set sail on his weathered fishing boat, The Sea Whisperer, venturing into the deep waters in search of the day's catch. With calloused hands, he expertly maneuvered his nets and patiently waited for the fish to find their way into his vessel. Bill had a deep respect for the sea, recognizing its abundance as both a gift and a responsibility.Bill was known throughout Harborville not only for his fishing skills but also for his generous nature. He had a smile for everyone he encountered and was always willing to lend a helping hand. Whether it was repairing a neighbor's boat or rescuing a stranded bird, Bill's kindness knew no bounds.One stormy night, as the wind howled and the rain poured, Bill spotted a small figure huddled on the rocky shore. It was a young seal pup, trembling with fear and exhaustion. Without a second thought, Bill sprang into action, rescuing the helpless creature from the fierce elements.He carefully cradled the seal pup in his arms and brought it back to his cozy cottage by the sea. There, he tended to its wounds and nurtured it back to health. The seal pup, whom Bill affectionately named Sunny, quickly became a part of his family.As Sunny grew stronger, a unique bond formed between him and Bill. They spent countless hours exploring the rugged coastline, swimming in the azure waters, and basking in the warmth of the sun. Sunny's playful antics brought joy to Bill's life, reminding him of the beauty and resilience of nature.Word of Bill and Sunny's heartwarming companionship spread throughout Harborville. People marveled at the sight of the fisherman and his furry friend, their spirits intertwined like the ebb and flow of the tides. Bill's kindness and compassion touched the hearts of those who witnessed their bond.One day, a renowned wildlife photographer named Sarah visited Harborville. She had heard stories of Bill and Sunny and was determined to capture their extraordinary connection through her lens. Sarah spent weeks observing their interactions, capturing candid moments of love, trust, and companionship.When Sarah's photographs were displayed in an art gallery, they became an instant sensation. People from near and far flocked to witness the incredible bond between Bill and Sunny. The photographs showcased not only the beauty of their friendship but also the power of kindness and empathy.Bill and Sunny's story inspired others to look beyond their own lives and connect with the natural world. Their tale reminded people that even a simple act of compassion could have a ripple effect, touching lives in ways they could never have imagined.In recognition of his selflessness and devotion to nature, the town of Harborville honored Bill with the 'Guardian of the Sea' award. Bill humbly accepted the recognition, acknowledging that it was his duty to protect and preserve the ocean and its magnificent creatures.Years passed, and Bill continued his life as a fisherman, sharing his love for the sea and its wonders with everyone he encountered. He became an advocate for sustainable fishing practices and worked tirelessly to promote environmental awareness.Even when Bill's time on Earth came to an end, his legacy lived on. The townsfolk of Harborville remembered him as a kind-hearted man who had made a profound impact on their lives and the world around them.To this day, the people of Harborville tell tales of the fisherman named Bill and his faithful companion, Sunny. Their story serves as a reminder of the transformative power of compassion, the enduring bond between humans and animals.",
+          "Once upon a time, in a quaint village nestled amidst rolling hills and blooming meadows, there lived a man named Bill. Bill was an elderly gentleman with a heart full of wisdom and a smile that could light up the darkest room. He had spent his entire life in the village, known and cherished by all for his kindness and generosiBill had a unique talent for gardening. His small cottage boasted a vibrant array of flowers, plants, and herbs, each thriving under his caring touch. The villagers marveled at the kaleidoscope of colors that adorned his garden, a testament to his green thumb and deep connection with nature.Every morning, Bill would wake up before the sun, slip on his worn gardening gloves, and tend to his beloved plants. He would gently prune their leaves, nourish their roots, and whisper words of encouragement, believing that every living thing responded to love and care.One fateful day, news arrived in the village that a gardening competition was to be held in the nearby city. The grand prize was a coveted trophy and recognition as the finest gardener in the region. Villagers whispered excitedly about the event, and their attention soon turned to Bill. They knew that his garden was a true work of art, and they believed he had a chance to win.Initially hesitant, Bill pondered whether to participate. He valued his garden not for recognition but for the joy it brought to others. However, the encouraging words of his neighbors and the sparkle in their eyes convinced him to embark on this new adventure.With renewed determination, Bill poured his heart and soul into his garden, dedicating extra time and care to every plant. He researched new techniques, sought advice from fellow gardeners, and experimented with unique arrangements. His once-breathtaking garden bloomed even more splendidly, radiating a sense of tranquility and beauty.The day of the competition arrived, and Bill traveled to the city, carrying with him the hopes and well wishes of the entire village. As he entered the grand exhibition hall, he marveled at the vibrant tapestry of colors that surrounded him. Rows upon rows of meticulously cultivated gardens stretched as far as the eye could see.As the judges made their way through the exhibits, Bill stood by his garden, his heart pounding with anticipation. He watched as they meticulously examined each plant, pausing occasionally to scribble notes. Bill knew that the competition was fierce, with many talented gardeners showcasing their skills.Finally, the moment of truth arrived. The judges gathered on the stage, their faces grave with deliberation. They praised the creativity and skill displayed by the gardeners but acknowledged that there could only be one winner.Bill's heart sank, but he remained grateful for the opportunity to have shared his garden with others. He reminded himself that the true reward lay in the joy and inspiration his garden brought to his village.With bated breath, the judges announced the winner—a garden that blended artistry, harmony, and the spirit of nature. It was none other than Bill's garden! The room erupted in applause, and Bill stood frozen in disbelief, a tear of joy streaming down his cheek.As he stepped onto the stage to accept his award, Bill realized that the true beauty of his garden lay not in the trophies or accolades but in the impact it had on others. Through his passion for gardening, he had cultivated a sense of community, love, and appreciation for nature. His garden had touched the hearts of countless individuals, reminding them of the simple yet profound wonders of the natural world.Returning to his village, Bill was greeted by a jubilant crowd. The villagers cheered and celebrated his victory, expressing their gratitude for the joy his garden had brought to their lives. From that day forward, Bill's garden became a symbol of inspiration.",
+          "Once upon a time, in a bustling city called Brightville, there lived a man named Bill. Bill was an ordinary individual with an extraordinary passion for music. He had a heart that resonated with melodies, and his fingertips danced effortlessly on the keys of a piaBill worked as a janitor at the Brightville Music Hall, a prestigious venue that hosted world-renowned musicians and orchestras. While he took care of the maintenance and cleanliness of the concert hall, his true love lay in the enchanting notes that filled the air during performances.Every night, after the last concertgoer had left and the hall fell silent, Bill would tiptoe onto the stage. He would sit at the grand piano, gently pressing the ivory keys, and allow his fingers to weave intricate compositions that came alive in the darkness. It was his secret ritual, a way to express his deepest emotions and find solace in the language of music.One evening, as Bill played a particularly heartfelt piece, a renowned pianist named Amelia happened to be passing by the music hall. The haunting melody reached her ears and tugged at her heartstrings. Entranced by the music, she ventured inside, following the delicate strains of the piano.As Amelia entered the dimly lit concert hall, she caught sight of Bill, completely immersed in his performance. His passion and talent shone through his every movement. She stood there, captivated by the raw emotion he poured into the music.When Bill finally finished, he looked up and found Amelia standing in the audience. Embarrassed, he quickly rose from the piano bench, ready to apologize for intruding. However, Amelia's eyes sparkled with admiration and a genuine smile graced her lips.'You have a remarkable talent,' Amelia said, her voice filled with warmth. 'Your music touched my soul. Will you share more of your compositions with the world?'Bill was taken aback by Amelia's kind words and the unexpected offer. He had never considered sharing his music beyond the confines of the empty concert hall. Doubt and fear gripped his heart, but the flicker of hope ignited within him.Encouraged by Amelia's belief in him, Bill hesitantly agreed to share his compositions with the world. Under Amelia's guidance, he began to compose and record his pieces, his delicate melodies weaving tales of love, loss, and the beauty of life.Amelia, who was a well-respected figure in the music industry, used her influence to introduce Bill's music to the world. She arranged for his compositions to be played by esteemed musicians, showcased in prestigious concerts, and featured on radio programs. The enchanting tunes captured the hearts of listeners far and wide.As Bill's music touched the souls of people around the globe, he received letters and messages expressing gratitude and awe. His compositions brought solace to those in pain, joy to those in despair, and a renewed sense of hope to those seeking inspiration.Brightville, once unaware of the musical genius in their midst, embraced Bill as a local hero. The city celebrated his talent and recognized him as a symbol of the extraordinary potential that lies within ordinary individuals.Bill's journey did not end with fame and recognition. Instead, it marked the beginning of a new chapter. He continued to compose, pouring his heart into every note, and inspiring aspiring musicians to embrace their own creative passions.Years passed, and Bill's music became timeless, cherished by generations to come. His compositions echoed through concert halls and filled the hearts of countless listeners, forever leaving an indelible mark on the world.And so, the story of Bill reminds us that within each of us, there lies a hidden talent, waiting to be discovered and shared. It teaches us to embrace our passions, and overcome self-doubt."
+        ]
+      }
+    ]
+  }
